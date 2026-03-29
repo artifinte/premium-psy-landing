@@ -51,7 +51,7 @@ export default function PremiumPsychologistLanding() {
           <header className="flex items-center justify-between py-4">
             <div>
               <div className="text-xs uppercase tracking-[0.35em] text-[#8a7357]">Частная психологическая практика</div>
-              <div className="mt-2 text-lg font-light">Андрей Курпатов</div>
+              <div className="mt-2 text-lg font-light">Николай Романов</div>
             </div>
             <a
               href="#contact"
